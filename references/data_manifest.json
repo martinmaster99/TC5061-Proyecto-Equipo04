@@ -1,0 +1,56 @@
+{
+  "proyecto": "MiBici",
+  "equipo": "04",
+  "periodo": "2026-01 a 2026-06",
+  "algoritmo_hash": "SHA-256",
+  "archivos": [
+    {
+      "archivo_original": "datos_abiertos_2026_01.csv",
+      "archivo_procesado": "datos_abiertos_2026_01.parquet",
+      "filas_originales": 357180,
+      "filas_procesadas": 356918,
+      "sha256_original": "c40d7a43eb1c0b1523d6267bcdfac1daad04179ef1f0a7cf93f09b2df82285c2",
+      "sha256_procesado": "eef4a5ff3ac2acc774911459415236a9a9aaeca9cf491e20dde53d2f030dd5a6"
+    },
+    {
+      "archivo_original": "datos_abiertos_2026_02.csv",
+      "archivo_procesado": "datos_abiertos_2026_02.parquet",
+      "filas_originales": 333756,
+      "filas_procesadas": 331893,
+      "sha256_original": "2d78fa9686477bdedbf333423e6aadc63b265aaef038eb0b09701746a155ae1f",
+      "sha256_procesado": "47a3c67d8f7b501138f537f4c82679b7a01502350141b1c3001b618858cb5286"
+    },
+    {
+      "archivo_original": "datos_abiertos_2026_03.csv",
+      "archivo_procesado": "datos_abiertos_2026_03.parquet",
+      "filas_originales": 376243,
+      "filas_procesadas": 376028,
+      "sha256_original": "97c273aa7465c99d509dfc58436122a979ad51af00bd527cef6144210375d16e",
+      "sha256_procesado": "053799aab7fac068290f460bece599fd6f52b8283cd1b5819131eab4481cf137"
+    },
+    {
+      "archivo_original": "datos_abiertos_2026_04.csv",
+      "archivo_procesado": "datos_abiertos_2026_04.parquet",
+      "filas_originales": 351851,
+      "filas_procesadas": 351689,
+      "sha256_original": "9165342d0169f2c0ba4fb2c944003147c8a95d77f9058361b451cadf141b2483",
+      "sha256_procesado": "69e0c1eb7673f48542f4e6207c2e61fa117235fd9578299d61222ce1fa0e56bc"
+    },
+    {
+      "archivo_original": "datos_abiertos_2026_05.csv",
+      "archivo_procesado": "datos_abiertos_2026_05.parquet",
+      "filas_originales": 315895,
+      "filas_procesadas": 315819,
+      "sha256_original": "d0ac16ae3a75b8ac40565176e2e607c99c756a385860caa7e2ffb351082c9d45",
+      "sha256_procesado": "fdc5375f33039cef7a0edf16253794a4bf5c24a74524d762dab3cd511d7efa53"
+    },
+    {
+      "archivo_original": "datos_abiertos_2026_06.csv",
+      "archivo_procesado": "datos_abiertos_2026_06.parquet",
+      "filas_originales": 355303,
+      "filas_procesadas": 355187,
+      "sha256_original": "a4d195786a3599b155829288a0432cd9e76c6780dc693c0e9579d11e11c49a27",
+      "sha256_procesado": "5b55ba3c92dad2ce969e8b244f2b26b67f194c80119c3ae022ac30bb90b382d2"
+    }
+  ]
+}
