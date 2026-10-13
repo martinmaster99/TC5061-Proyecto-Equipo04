@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.9872293948878456,
+  "balanced_accuracy": 0.4695026738173333,
+  "f1_macro": 0.37324477182190935,
+  "precision_vaciado": 0.03488372093023256,
+  "precision_saturacion": 0.03949730700179533,
+  "recall_vaciado": 0.2214765100671141,
+  "recall_saturacion": 0.1981981981981982,
+  "alertas_generadas": 3563
+}

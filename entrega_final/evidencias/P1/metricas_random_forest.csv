@@ -1,0 +1,4 @@
+conjunto,mae,rmse
+train,0.7493,1.3801
+val,0.702,1.2729
+test,0.8086,1.4797

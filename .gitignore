@@ -201,3 +201,17 @@ mlflow.db
 *.joblib
 *.pickle
 *.parquet
+
+# MiBici - MLflow unificado y respaldos locales
+mlflow_unificado.db
+mlflow_unificado_artifacts/
+backups/
+*.bak
+
+# MiBici - Pruebas temporales de mapas
+evidencia_p3/mapa_clusters_plotly.html
+evidencia_p3/prueba_guadalajara.html
+evidencia_p3/prueba_mapa_local.html
+
+# MiBici - Scripts de respaldo
+mibici/dataset_backup.py
